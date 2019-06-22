@@ -3,5 +3,5 @@ friends_name = []
 
 friends_name.append(input("친구들의 이름을 적어주세요!"))
 
-print("{friends_name}", end = "입니다!")
+print(f"{friends_name}", end = "입니다!")
  
